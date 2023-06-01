@@ -86,36 +86,39 @@ Before running the Decentralized Data Storage System, ensure that you have the f
 
 1. Clone the repository:
 
-   ```shell
+   ```
    git clone https://github.com/VINTEX011/decentralized-data-storage-system.git
+   ```
 2. Navigate to the project directory:
 
-   ```shell
+   ```
    cd decentralized-data-storage-system
+   ```
 3. Install the dependencies:
 
-   ```shell
+   ```
    npm install
+   ```
    
  4. # Example of customizing the configuration
 cd config.example.js config.js
 
  5. Compile the smart contracts:
 
-   ```shell
+   ```
    truffle compile
-
+   ```
 
 6. Migrate the contracts to the blockchain:
 
-   ```shell
+   ```
    truffle migrate
-   
+   ```
 7. Launch the application:
 
-   ```shell
+   ```
    npm start
-
+   ```
 
 
 
